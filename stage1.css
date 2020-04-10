@@ -1,0 +1,76 @@
+h1{
+	text-align: center;
+	color: #FFEF00;
+	background-color: #074A73;
+	border-radius: 25px;
+}
+
+body{
+	font-family: sans-serif;
+}
+
+.lesson1{
+	background-color: #6D1212;
+	border-radius: 30px;
+	color: white;
+	padding: 12px;
+}
+
+h2{
+	margin: 10px;
+}
+
+.theory{
+	background-color: #F1EBA1;
+	padding: 5px;
+	margin: 10px;
+	border-radius: 10px;
+	color: black;
+}
+
+.sub-title{
+	text-decoration: underline;
+	text-transform: capitalize;
+	text-align: center;
+	color: #6D1212;
+	font: italic bold 14px/30px Georgia, serif
+
+}
+
+.theory-content{
+	font-weight: lighter;
+	color: #074A73;
+
+}
+
+a:link{
+	color: #391490;
+}
+
+a:visited{
+	color: #6F38EF;
+}
+
+.lesson2{
+	background-color: #6D1212;
+	border-radius: 30px;
+	color: white;
+    padding: 12px;
+}
+
+.class{
+	padding: 10px;
+	height: 50px;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.article{
+	display: block;
+}
+
+.header{
+	display: block;
+}
